@@ -1,3 +1,6 @@
 Hello, GitHub!
+<<<<<<< HEAD
 You're interesting!
 But very sensitive!
+=======
+>>>>>>> parent of 9cb67eb (added text)
